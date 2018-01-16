@@ -1,0 +1,14 @@
+export const SUCCESS = '#00B8D4';
+export const FAIL = '#B71C1C';
+export const TEXT_PRIMARY_COLOR = '#3A4054';
+export const TEXT_600_COLOR = '#3A4054';
+export const BUTTON_DEFAULT_BG = '#3498DB';
+export const NAVBAR_BG_COLOR = '#ECF0F1';
+export const TAB_INACTIVE = '#E3F2FD';
+export const TAB_ACTIVE = '#2C3E50';
+export const PLACEHOLDER_GRAY = '#F0EFEF';
+export const PLACEHOLDER_GRAY_LIGHT = '#F9F8F8';
+export const EMPTY_BG_COLOR = '#FFFFFF';
+export const LINK_COLOR = '#03A9F4';
+export const CLEAR = 'transparent';
+export const RED = '#E74C3C';
